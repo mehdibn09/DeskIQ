@@ -109,11 +109,11 @@ When `NEXT_PUBLIC_SUPABASE_URL` and `NEXT_PUBLIC_SUPABASE_ANON_KEY` are omitted,
 
 | Role | Email | Password |
 | :--- | :--- | :--- |
-| **Admin** | `admin@novadesk.app` | `admin1234` |
-| **User** | `demo@novadesk.app` | `demo1234` |
-| **User** | `ava@novadesk.app` | `demo1234` |
-| **User** | `marcus@novadesk.app` | `demo1234` |
-| **User** | `lena@novadesk.app` | `demo1234` |
+| **Admin** | `admin@deskIQ.app` | `admin1234` |
+| **User** | `demo@deskIQ.app` | `demo1234` |
+| **User** | `ava@deskIQ.app` | `demo1234` |
+| **User** | `marcus@deskIQ.app` | `demo1234` |
+| **User** | `lena@deskIQ.app` | `demo1234` |
 
 > *Tip: You can completely reset the local state at any time by deleting the `.demo/` directory.*
 

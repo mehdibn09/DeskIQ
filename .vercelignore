@@ -1,0 +1,15 @@
+# Files excluded from the Vercel deployment upload.
+# (.vercelignore is used by the Vercel CLI instead of .gitignore.)
+node_modules
+.next
+.git
+.vercel
+
+# Never upload local secrets - production env comes from Vercel settings.
+.env.local
+.env.*.local
+
+# Local demo-mode store (not used in production; Supabase is configured).
+.demo
+
+*.log
